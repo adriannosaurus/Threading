@@ -10,7 +10,7 @@ public class Threading implements Runnable
     @Override
     public void run()
     {
-        System.out.println("Hello from thread " + i++ + "!");
+        System.out.println("Test. Hello from thread " + i++ + "!");
     }
     
     
